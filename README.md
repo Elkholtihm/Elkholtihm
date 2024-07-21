@@ -54,13 +54,4 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github.com/Elkholtihm/Elkholtihm/raw/output/snake.svg" alt="Snake animation" />
-</div>
-
-###
 
