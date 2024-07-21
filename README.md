@@ -1,7 +1,8 @@
+# Hey there 👋
+
 <div align="center">
   <img src="https://github.com/Elkholtihm/Elkholtihm/raw/main/introduction.gif" alt="Watch the video" width="1000" height="500">
 </div>
-
 
 <h2 align="left">Hi 👋! My name is Hamza Kholti and I'm an AI and Big data engineering student.</h2>
 
@@ -64,3 +65,4 @@
 </div>
 
 ###
+
