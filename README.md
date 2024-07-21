@@ -59,6 +59,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/elkholtihm/elkholtihm/snake.yaml" alt="Snake animation" />
+<div align="center">
+  <img src="https://github.com/Elkholtihm/Elkholtihm/raw/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
