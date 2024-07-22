@@ -2,18 +2,16 @@
   <img src="https://github.com/Elkholtihm/Elkholtihm/raw/main/introduction.gif" alt="Watch the video" width="1000" height="300">
 </div>
 
-<pre style="font-family: 'Courier New', Courier, monospace;">
+<pre style="font-family: 'Courier New', Courier, monospace; font-size: 24px;">
 Hi 👋! My name is Hamza Kholti and I'm an AI and Big data engineering student.
 </pre>
 
 ###
 
-<div align="center" style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=elkholtihm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" style="margin-right: 20px;" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elkholtihm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" style="margin-left: 20px;" />
   <img src="https://streak-stats.demolab.com?user=elkholtihm&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
 </div>
-
-
 
 ###
 
