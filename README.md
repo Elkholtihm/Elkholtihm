@@ -2,7 +2,7 @@
   <img src="https://github.com/Elkholtihm/Elkholtihm/raw/main/introduction.gif" alt="Watch the video" width="1000" height="300">
 </div>
 
-<pre style="font-family: 'Courier New', Courier, monospace;">
+<pre style="font-family: 'Courier New', Courier, monospace; font-size: 24px; text-align: center; display: block;">
 Hi 👋! My name is Hamza Kholti and I'm an AI and Big data engineering student.
 </pre>
 
