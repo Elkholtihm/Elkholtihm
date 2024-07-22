@@ -1,8 +1,10 @@
 <div align="center">
-  <img src="https://github.com/Elkholtihm/Elkholtihm/raw/main/introduction.gif" alt="Watch the video" width="1000" height="500">
+  <img src="https://github.com/Elkholtihm/Elkholtihm/raw/main/introduction.gif" alt="Watch the video" width="1000" height="300">
 </div>
 
-<h2 align="left">Hi 👋! My name is Hamza Kholti and I'm an AI and Big data engineering student.</h2>
+<pre style="font-family: 'Courier New', Courier, monospace;">
+Hi 👋! My name is Hamza Kholti and I'm an AI and Big data engineering student.
+</pre>
 
 ###
 
