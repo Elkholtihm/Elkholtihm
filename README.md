@@ -39,6 +39,22 @@ Hi 👋! My name is Hamza Kholti and I'm an AI and Big data engineering student
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="40" alt="scikit-learn logo"  />
+  <img width="12" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" alt="seaborn logo" />
+  <img width="12" />
+  <img src="https://matplotlib.org/_static/images/logo2.svg" height="40" alt="matplotlib logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/plotly/plotly.js/master/logo/plotly-dash.png" height="40" alt="plotly logo" />
+  <img width="12" />
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" height="40" alt="streamlit logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="40" alt="spark logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Apache_Hadoop_logo.svg" height="40" alt="hadoop logo" />
 </div>
 
 ###
