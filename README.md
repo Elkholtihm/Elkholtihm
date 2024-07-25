@@ -48,7 +48,7 @@ Hi 👋! My name is Hamza Kholti and I'm an AI and Big data engineering student
   <img width="12" />
   <img src="https://matplotlib.org/_static/images/logo2.svg" height="40" alt="matplotlib logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/plotly/plotly.js/master/logo/plotly-dash.png" height="40" alt="plotly logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Plotly_logo.png" height="40" alt="plotly logo" />
   <img width="12" />
   <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" height="40" alt="streamlit logo" />
   <img width="12" />
