@@ -3,7 +3,7 @@
 </div>
 
 <pre style="font-family: 'Courier New', Courier, monospace;">
-Hi! My name is Hamza Kholti and I'm an AI and Big data engineering student at ENSA of Tetouan, Morocco
+Hi! My name is Hamza Kholti and I'm an AI and Big data engineering student at ENSA Tetouan, Morocco
 </pre>
 
 ###
