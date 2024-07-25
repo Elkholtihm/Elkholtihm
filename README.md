@@ -3,7 +3,8 @@
 </div>
 
 <pre style="font-family: 'Courier New', Courier, monospace;">
-Hi 👋! My name is Hamza Kholti and I'm an AI and Big data engineering student at the National School of Applied Science of Tetouan, Morocco
+Hi 👋! My name is Hamza Kholti and I'm an AI and Big data engineering student at 
+  the National School of Applied Science of Tetouan, Morocco
 </pre>
 
 ###
