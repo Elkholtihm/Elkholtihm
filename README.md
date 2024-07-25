@@ -54,7 +54,7 @@ Hi 👋! My name is Hamza Kholti and I'm an AI and Big data engineering student
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="40" alt="spark logo" />
   <img width="12" />
-  <img src="https://fr.wikipedia.org/wiki/Hadoop#/media/Fichier:Hadoop_logo_new.svg" height="40" alt="hadoop logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Hadoop_logo_new.svg" height="40" alt="hadoop logo" />
 </div>
 
 ###
