@@ -2,9 +2,9 @@
   <img src="https://github.com/Elkholtihm/Elkholtihm/raw/main/intro.gif" alt="Watch the video" width="1000" height="300">
 </div>
 
-<pre style="font-family: 'Courier New', Courier, monospace;">
-Hi! My name is Hamza Kholti and I'm an AI and Big data engineering student at ENSA Tetouan, Morocco
-</pre>
+<div align="center">
+  <img src="https://github.com/Elkholtihm/Elkholtihm/raw/main/Read.gif" alt="Watch the video" width="100" height="20">
+</div>
 
 ###
 
