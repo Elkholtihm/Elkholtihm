@@ -2,6 +2,11 @@
   <img src="https://github.com/Elkholtihm/Elkholtihm/raw/main/intro.gif" alt="Watch the video" width="1000" height="300">
 </div>
 
+<div align="center">
+  <img src="https://github.com/Elkholtihm/Elkholtihm/raw/main/intro1.gif" alt="Watch the video" width="1000" height="80">
+</div>
+
+
 ###
 
 <div align="center">
