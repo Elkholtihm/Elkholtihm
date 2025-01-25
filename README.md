@@ -17,11 +17,11 @@
 ###
 
 <div align="center">
- <img src="https://profile-counter.glitch.me/elkholtihm/count.svg?" />
- <br>
- <a href="https://my-portfolio-96kn.onrender.com">
-   <img src="https://img.shields.io/badge/Portfolio-Click%20Here-blue?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
- </a>
+  <img src="https://profile-counter.glitch.me/elkholtihm/count.svg?" />
+  &nbsp;&nbsp;
+  <a href="https://my-portfolio-96kn.onrender.com">
+    <img src="https://img.shields.io/badge/Portfolio-View%20Now-brightgreen?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" />
+  </a>
 </div>
 
 ###
