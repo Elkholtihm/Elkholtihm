@@ -9,22 +9,16 @@
 
 ###
 
-<div align="center">
- <img src="https://profile-counter.glitch.me/elkholtihm/count.svg?" width="250" height="45" />
- &nbsp;&nbsp;
- <a href="https://my-portfolio-96kn.onrender.com" target="_blank">
-   <img src="https://img.shields.io/badge/Portfolio-View%20Now-brightgreen?style=for-the-badge&logo=web&logoColor=white" width="250" height="45" />
- </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/elkholtihm/count.svg?" width="150" height="45" />
-  &nbsp;&nbsp;
-  <a href="https://my-portfolio-96kn.onrender.com">
-    <img src="https://img.shields.io/badge/Portfolio-View%20Now-brightgreen?style=for-the-badge&logo=web&logoColor=white" width="250" height="45" />
-  </a>
+<div align="center" style="font-family: 'Arial', sans-serif; background-color: #f4f4f4; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <img src="https://profile-counter.glitch.me/elkholtihm/count.svg?" width="250" height="45" style="border-radius: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);" />
+    
+    <a href="https://my-portfolio-96kn.onrender.com" target="_blank" style="text-decoration: none;">
+      <div style="background-color: #4CAF50; color: white; padding: 10px 20px; border-radius: 5px; font-size: 16px; font-weight: bold; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); transition: background-color 0.3s ease;">
+        Portfolio - View Now
+      </div>
+    </a>
+  </div>
 </div>
 
 ###
