@@ -17,10 +17,10 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/elkholtihm/count.svg?" />
+  <img src="https://profile-counter.glitch.me/elkholtihm/count.svg?" width="150" height="45" />
   &nbsp;&nbsp;
   <a href="https://my-portfolio-96kn.onrender.com">
-    <img src="https://img.shields.io/badge/Portfolio-View%20Now-brightgreen?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-View%20Now-brightgreen?style=for-the-badge&logo=web&logoColor=white" width="250" height="45" />
   </a>
 </div>
 
