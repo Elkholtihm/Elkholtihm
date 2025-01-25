@@ -16,7 +16,7 @@
 ###
 
 <div align="center">
- <img src="https://profile-counter.glitch.me/elkholtihm/count.svg?" width="150" height="45" />
+ <img src="https://profile-counter.glitch.me/elkholtihm/count.svg?" width="250" height="45" />
  &nbsp;&nbsp;
  <a href="https://my-portfolio-96kn.onrender.com" target="_blank">
    <img src="https://img.shields.io/badge/Portfolio-View%20Now-brightgreen?style=for-the-badge&logo=web&logoColor=white" width="250" height="45" />
