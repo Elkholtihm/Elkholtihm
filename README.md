@@ -16,25 +16,11 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/elkholtihm/count.svg?" width="250" height="45" />
-  &nbsp;&nbsp;
-  <a href="https://my-portfolio-96kn.onrender.com" target="_blank" style="text-decoration: none;">
-    <div style="
-      display: inline-block;
-      background-color: #4caf50;
-      color: white;
-      padding: 10px 20px;
-      font-size: 18px;
-      font-weight: bold;
-      border-radius: 5px;
-      transition: background-color 0.3s, transform 0.3s;
-      box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
-    " 
-    onmouseover="this.style.backgroundColor='#45a049'; this.style.transform='scale(1.05)';" 
-    onmouseout="this.style.backgroundColor='#4caf50'; this.style.transform='scale(1)';">
-      View Portfolio
-    </div>
-  </a>
+ <img src="https://profile-counter.glitch.me/elkholtihm/count.svg?" width="150" height="45" />
+ &nbsp;&nbsp;
+ <a href="https://my-portfolio-96kn.onrender.com" target="_blank">
+   <img src="https://img.shields.io/badge/Portfolio-View%20Now-brightgreen?style=for-the-badge&logo=web&logoColor=white" width="250" height="45" />
+ </a>
 </div>
 
 
