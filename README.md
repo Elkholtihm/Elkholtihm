@@ -8,9 +8,18 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elkholtihm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=elkholtihm&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=elkholtihm&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats"/>
+
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=elkholtihm&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub Streak"/>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elkholtihm&layout=compact&theme=dracula&hide_border=false" height="150" alt="Top Languages"/>
+
 </div>
+
 
 
 ###
@@ -78,5 +87,13 @@
   <a href="https://www.linkedin.com/in/hamza-kholti-075288209" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+</div>
+
+
+##
+<div align="center">
+  <!-- GitHub Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elkholtihm&bg_color=282a36&color=bd93f9&line=ff79c6&point=50fa7b&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
+
 </div>
 
