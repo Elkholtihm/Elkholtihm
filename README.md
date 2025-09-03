@@ -25,7 +25,7 @@
 ###
 
 <div align="center">
- <img src="https://profile-counter.glitch.me/elkholtihm/count.svg?" width="250" height="45" />
+  <img src="https://komarev.com/ghpvc/?username=elkholtihm&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Visitor Counter"/>
  &nbsp;&nbsp;
  <a href="https://elkholtihm.pythonanywhere.com/" target="_blank">
    <img src="https://img.shields.io/badge/Portfolio-View%20Now-brightgreen?style=for-the-badge&logo=web&logoColor=white" width="250" height="45" />
@@ -89,11 +89,4 @@
   </a>
 </div>
 
-
-##
-<div align="center">
-  <!-- GitHub Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elkholtihm&bg_color=282a36&color=bd93f9&line=ff79c6&point=50fa7b&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
-
-</div>
 
