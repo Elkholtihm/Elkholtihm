@@ -25,8 +25,6 @@
 ###
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=elkholtihm&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Visitor Counter"/>
- &nbsp;&nbsp;
  <a href="https://elkholtihm.pythonanywhere.com/" target="_blank">
    <img src="https://img.shields.io/badge/Portfolio-View%20Now-brightgreen?style=for-the-badge&logo=web&logoColor=white" width="250" height="45" />
  </a>
