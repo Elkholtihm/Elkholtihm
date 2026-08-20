@@ -160,12 +160,6 @@
 
 ---
 
-<div align="center">
-
-📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/hamza-kholti/)** · **[X](https://x.com/elkholtihm)** · **[Medium](https://medium.com/@hamza.kholti)**
-
-</div>
-
 
 
 <picture>
