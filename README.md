@@ -4,7 +4,7 @@
 
 
 
-### Data Scientist | ML Engineer | Building things with data
+### Data Scientist | AI Engineer | Building things with data
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=todoist&logoColor=white)](https://elkholtihm.pythonanywhere.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-kholti/)
